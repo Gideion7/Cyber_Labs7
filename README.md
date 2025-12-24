@@ -2,18 +2,21 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+
+
+
+- <b>Cloud Projects</b>
+   - Monitoring & Alerting Solution in AWS
+
+- <b>Secuirty and Admin Scripts</b> 
+
 - <b>Vulnerability Scanner and Endpoint </b>
    - [Wazuh Lab](docs/wazuh/Wreadme.md)
    - [Nessus scanner](docs/Nessus/Nreadme.md)
 
 - <b>Network Security
    - [Firewall & VPN](docs/firewall/freadme.md)
-- <b>Linux Security </b>
-
-
-- <b>Cloud </b>
-
-  
+- <b>Linux Security </b> 
 
 
 
