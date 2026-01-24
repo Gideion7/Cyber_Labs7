@@ -7,7 +7,7 @@
 
 - <b>Cloud Projects</b>
    - [Monitoring & Alerting Solution in AWS](docs/AWS/Monitoring_Alerting.md)
-   - [Encrypting Data at Rest with KMS](docs/AWS/AWS_Encryption.md)]
+   - [Encrypting Data at Rest with KMS](docs/AWS/AWS_Encryption.md)
 
 - <b>Vulnerability Scanner and Endpoint </b>
    - [Wazuh Lab](docs/wazuh/Wreadme.md)
