@@ -7,6 +7,8 @@
 
 Modern cybersecurity is about visibility. This project demonstrates the deployment of a full-stack Security Operations Center (SOC) in Microsoft Azure. By intentionally exposing a vulnerable Windows 10 Virtual Machine (the "Honeypot") to the open internet, I captured, analyzed, and visualized live cyber attacks from global threat actors.
 
+<img width="719" height="405" alt="image" src="https://github.com/user-attachments/assets/239811df-188e-49be-9fa7-06ca260b1a78" />
+
 ---
 
 # 🏗️ Phase 1: The Sacrificial Lamb (Virtual Machine)
