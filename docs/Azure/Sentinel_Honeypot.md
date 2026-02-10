@@ -109,12 +109,12 @@ I used JSON-based templates to create a dynamic Attack Map.
 ## Real-World Observation
 After deploying the workbook, I had to wait approximately **5 hours** to see a significant volume of global attack data populate the map. This reinforced an important lesson: threat intelligence visualization improves over time as more telemetry is ingested.
 
-## The "Why"
-High-level stakeholders and SOC Managers need visual summaries. A map that shows "Attack Intensity" via bubble size allows a team to prioritize which geographic regions or IP ranges need to be blocked first.
-
-<img width="818" height="437" alt="image" src="https://github.com/user-attachments/assets/28558138-880a-4abb-97cb-e263036dc912" />
+<img width="1012" height="645" alt="image" src="https://github.com/user-attachments/assets/b4cc3961-cda8-4fc0-9926-bf260eafb016" />
 
 ` Final Attack Map with the 3D globe and colored dots`
+
+## The "Why"
+High-level stakeholders and SOC Managers need visual summaries. A map that shows "Attack Intensity" via bubble size allows a team to prioritize which geographic regions or IP ranges need to be blocked first.
 
 ---
 
